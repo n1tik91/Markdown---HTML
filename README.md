@@ -1,6 +1,6 @@
 # Markdown to HTML Converter
 
-This is a simple Go program that converts Markdown files (.md) to HTML files.
+This is a simple Go program that converts Markdown files (.md) to HTML file (.html) .
 
 ## How It Works
 
