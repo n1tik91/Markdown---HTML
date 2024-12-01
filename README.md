@@ -1,1 +1,1 @@
-# Currency-Converter
+# Markdown to HTML code converter
