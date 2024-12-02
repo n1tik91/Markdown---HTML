@@ -20,6 +20,8 @@ This is a simple Go program that converts Markdown files (.md) to HTML file (.ht
 
    ```bash 
    git clone https://github.com/n1tik91/Markdown---HTML.git
+   ```
+   ```bash 
    cd Markdown---HTML
    ```
 
